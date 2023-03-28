@@ -8,7 +8,7 @@ As a recent graduate of Nucamp bootcamp, I have developed a strong foundation in
 
 * 🌍  I'm based in Bakersfield, CA
 * ✉️  You can contact me at [j.rojas\_7@hotmail.com](mailto:j.rojas_7@hotmail.com)
-* 🚀  I'm currently working on [Adding authentication to my game library](http://https://ps-vita-mybrary.onrender.com)
+* 🚀  I'm currently working on [Adding authentication to my game library](https://github.com/Jr-rojas/My_Game_Library)
 * 🧠  I'm learning MongoDB with Node
 
 ### Skills
