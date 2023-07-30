@@ -9,7 +9,7 @@ As a recent graduate of Nucamp bootcamp, I have developed a strong foundation in
 * 🌍  I'm based in Bakersfield, CA
 * ✉️  You can contact me at [j.rojas\_7@hotmail.com](mailto:j.rojas_7@hotmail.com)
 * 🚀  I'm currently working on [Website for the church I attend](https://github.com/Jr-rojas/cota)
-* 🧠  I'm learning MongoDB with Node
+* 🧠  I'm diving deeper into the world of REACT
 
 ### Skills
 
